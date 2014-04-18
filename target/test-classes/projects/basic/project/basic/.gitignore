@@ -1,0 +1,18 @@
+*.class
+
+##### Package Files
+*.jar
+*.war
+*.ear
+target
+
+##### Idea Files
+.idea
+*.iml
+*.ipr
+*.iws
+
+##### Eclipse Files
+*/.classpath
+*/.project
+.settings
