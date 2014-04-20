@@ -6,5 +6,4 @@
     <artifactId>${artifactId}</artifactId>
     <version>${version}</version>
 
-
 </project>
